@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Yassine Jrad</h1>
-<h3 align="center">A fullstack Django/React & DevOps Developer from Tunisia</h3>
+<h3 align="center">A full stack JS/Python developer based in Tunisia</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yassinejr&label=Profile%20views&color=0e75b6&style=flat" alt="yassinejr" /> </p>
 
